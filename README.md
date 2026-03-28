@@ -5,5 +5,10 @@
   <br>
  
   <img src="Anime-wallpaper/1398757.jpg" width="100%" />
+ 
+  <img src="Anime-wallpaper/1369866.png" width="100%" />
+
+  
+  
 <br><br>
 </details>

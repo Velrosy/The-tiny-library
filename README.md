@@ -48,7 +48,8 @@
   <summary><b><font size="5"> ✨ video-wallpaper</font></b></summary>
   <br>
 
-<img src="video-wallpaper/" width="100%" />
+<img src="video-wallpaper/GIF_20260328_174623_600.gif" width="100%" />
+[Download the wallpaper]()
 
 <br><br>
 </details

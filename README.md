@@ -19,6 +19,7 @@ for Linux users
 | <img src="Anime-wallpaper/general-1749388161.webp" width="300"> | <img src="Anime-wallpaper/3d-view-sun-sky-from-room.webp" width="300"> |
 | <img src="Anime-wallpaper/5.png" width="300"> | <img src="Anime-wallpaper/25942.jpg" width="300"> |
 | <img src="Anime-wallpaper/Anime girl.webp" width="300"> | <img src="Anime-wallpaper/1369866.png" width="300"> |
+| <img src="Anime-wallpaper/IMG_20260329_104201.jpg" width="300"> | <img src="Anime-wallpaper/2D9EFE2C-BB9F-442C-8186-640CD11E5773.webp" width="300"> |
   
 
 [all anime wallpaper here](https://github.com/Velrosy/Wallpaper/tree/c852c37febd8635281b2ccc783d77b67c56b0b6e/Anime-wallpaper)

@@ -1,7 +1,4 @@
-
-
-
-
+for Linux users
 [dotfiles](https://github.com/stars/Velrosy/lists/dotfiles)
 
 
@@ -50,6 +47,7 @@
   
 
 [all anime wallpaper here](https://github.com/Velrosy/Wallpaper/tree/c852c37febd8635281b2ccc783d77b67c56b0b6e/Anime-wallpaper)
+ 
   
 <br><br>
 </details>
@@ -65,3 +63,16 @@
 
 <br><br>
 </details
+
+
+<details>
+  <summary><b><font size="5"> ✨ wallpaper-Website </font></b></summary>
+  <br>
+
+   
+    
+  [4k wallpapers](https://4kwallpapers.com/)
+ 
+  <br><br>
+</details
+

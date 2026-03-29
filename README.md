@@ -53,8 +53,7 @@ for Linux users
 | profiles | gif profiles | Matching Profiles |
 |-------|-------|-------|
 | <img src="Discord-profile/profile_1114208841647788113.webp" width="300"> |  <img src="Discord-profile/profile_1114208841647788113 (2).gif" width="300"> | <img src="Discord-profile/file.webp" width="300"> |
-
-Join my community to download profiles  
+° here is just a exp to download and to get more profiles Join my community  🪐
 [![Join](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/Havenia)
 
 <br><br>

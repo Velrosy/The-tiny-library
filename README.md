@@ -33,6 +33,7 @@ for Linux users
   <br>
 
   | video | Wallpaper |
+  
 | <img src="Video-wallpaper/GIF_20260328_174623_600.gif" width="300"> | t |
 
 

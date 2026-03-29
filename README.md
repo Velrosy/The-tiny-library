@@ -66,7 +66,7 @@ for Linux users
 
 
 <details>
-  <summary><b><font size="5"> ✨ wallpaper-Website </font></b></summary>
+  <summary><b><font size="5"> ✨ wallpaper-Website</font></b></summary>
   <br>
  
   <br><br>
